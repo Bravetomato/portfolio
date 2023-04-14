@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c9449147.css",
-    "main.js": "/portfolio/static/js/main.8021c3b5.js",
+    "main.js": "/portfolio/static/js/main.b42f2548.js",
     "static/media/Kakaobank.jpg": "/portfolio/static/media/Kakaobank.56b39fef19a3c82de73e.jpg",
     "static/media/Portfolio.jpg": "/portfolio/static/media/Portfolio.69cb74053c4a180caae8.jpg",
     "static/media/development.png": "/portfolio/static/media/development.2fe28ac540d3894dc18c.png",
     "static/media/TodoList.jpg": "/portfolio/static/media/TodoList.3c3731ff98121cafa90a.jpg",
     "index.html": "/portfolio/index.html",
     "main.c9449147.css.map": "/portfolio/static/css/main.c9449147.css.map",
-    "main.8021c3b5.js.map": "/portfolio/static/js/main.8021c3b5.js.map"
+    "main.b42f2548.js.map": "/portfolio/static/js/main.b42f2548.js.map"
   },
   "entrypoints": [
     "static/css/main.c9449147.css",
-    "static/js/main.8021c3b5.js"
+    "static/js/main.b42f2548.js"
   ]
 }
